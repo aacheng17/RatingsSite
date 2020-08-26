@@ -1,0 +1,10 @@
+azure-functions
+requests
+bs4
+beautifulsoup4
+mysql-connector-python
+python-dotenv
+urllib3
+selenium
+gitdb
+GitPython

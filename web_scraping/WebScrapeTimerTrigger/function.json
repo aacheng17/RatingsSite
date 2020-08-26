@@ -1,0 +1,12 @@
+{
+  "scriptFile": "movies_master.py",
+  "entryPoint": "main",
+  "bindings": [
+    {
+      "name": "mytimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */2 * * * 2,6"
+    }
+  ]
+}
